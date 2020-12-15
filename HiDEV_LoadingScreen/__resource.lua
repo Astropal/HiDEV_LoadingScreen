@@ -6,6 +6,8 @@ repository 'https://github.com/Astropal/HiDEV_LoadingScreen'
 files {
     'index.html',
     'src/CSS/style.css',
+    'src/CSS/neon.css',
+    'src/JS/script.js',
     'src/IMG/loadscreen.jpg'
 }
 
